@@ -1,0 +1,30 @@
+-En tus palabras, ¿Qué es internet?
+El internet es una herramienta que ayuda a los seres humanos a hacerles la vida mas facil y entretener
+-Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+El medio de transmisión constituye el soporte físico a través del cual emisor y receptor pueden comunicarse 
+en un sistema de transmisión de datos. Distinguimos dos tipos de medios: guiados y no guiados. En ambos casos
+ la transmisión se realiza por medio de ondas electromagnéticas. Los medios guiados conducen (guían) las ondas a 
+ través de un camino físico, ejemplos de estos medios son el cable coaxial, la fibra óptica y el par trenzado.
+Los medios no guiados proporcionan un soporte para que las ondas se transmitan, pero no las dirigen; como ejemplo
+ de ellos tenemos el aire y el vacío.
+-¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+El DNS (Sistema de Nombres de Dominio) es el encargado de “traducir” los números de una dirección IP en un nombre de dominio. Es decir que convierten el dominio escrito en el navegador y dirigen el acceso hacia el servidor al que apunta el dominio.
+-Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+Tienen un software en la nube que hace que cuando un usuario pague le da acceso a sus servicios de musica
+-Describe los protocolos que existen en internet, en específico HTTP y HTML
+HTTP es un protocolo de acceso para las páginas web a través de Internet. HTTP son las siglas para Hypertext
+ Transfer Protocol que se traduce al español como el “protocolo de transferencia de hipertextos”. ... 
+ El HTML es el lenguaje utilizado para codificar la información en los recursos web.
+-En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+Si se utiliza correctamente, el cifrado de extremo a extremo puede ayudar a proteger el contenido de sus mensajes, 
+texto e incluso archivos para que nadie los entienda, excepto sus destinatarios previstos. También se puede utilizar 
+para probar que un mensaje proviene de una persona en particular y no ha sido alterado.
+En los últimos años, las herramientas de cifrado de extremo a extremo se han vuelto más usables. Las herramientas de mensajería segura como Signal (iOS o Android) - 
+para llamadas telefónicas, videollamadas, chats y uso compartido de archivos- son buenos ejemplos de aplicaciones que utilizan cifrado de extremo a extremo para cifrar
+ mensajes entre el remitente y el destinatario previsto. Estas herramientas hacen que los mensajes sean ilegibles para los que escuchan a escondidas en la red, así como para los
+  propios proveedores de servicios.
+-En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+Sabiendo de donde te pueden atacar ya que hay diferentes tipos de virus y es importante estar alo pendiente por si uno de estos intenta meterse a tu pagina web, saber actuar de inmediato para que los usuarios no tengan ningun tipo de problema
+-¿Cómo funciona la búsqueda de google?
+Rastreo: Google explora la Web con programas automatizados, llamados rastreadores, que buscan páginas nuevas o actualizadas. ...
+Indexación: Google visita las páginas que ha descubierto mediante el rastreo e intenta saber de qué trata cada una.
